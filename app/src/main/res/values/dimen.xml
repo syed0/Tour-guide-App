@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_layout_padding">10dp</dimen>
+    <dimen name="image_size">100dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_padding">20dp</dimen>
+    <dimen name="sub_text_padding">14sp</dimen>
+    <dimen name="image_layout">180dp</dimen>
+    <dimen name="discribtion_size">23sp</dimen>
+</resources>
